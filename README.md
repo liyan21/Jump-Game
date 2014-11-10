@@ -1,7 +1,7 @@
 Jump-Game
 =========
 
-Array Hopper
+<h4>Array Hopper</h4>
 
 You are given an array of integers with values greater than or equal to 0, for example:
 
@@ -16,10 +16,10 @@ your current index (3)—so you now consider indices 4 through 7 as next steps i
 3. Once you can legally hop beyond the last array element, you have successfully traversed the array.
 
 
-Objective
+<h4>Objective</h4>
 
 Your algorithm must identify a minimum-hops solution, but can choose arbitrarily among solutions with the same number of hops.
 Your program will implement the algorithm and write a solution to the standard output stream on a single line identifying the array indices that comprise a solution path, with the indices separated by commas.
 For this example, the following would be valid output:
 
-                                0, 5, 9, out
+                                 0, 5, 9, out
